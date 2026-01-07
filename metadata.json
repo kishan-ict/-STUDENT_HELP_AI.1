@@ -1,0 +1,7 @@
+{
+  "name": "Student Nexus AI",
+  "description": "A next-generation, cinematic, hyper-realistic student companion system blending high-end motion design with advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
