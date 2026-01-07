@@ -139,13 +139,6 @@ npm run preview   # Preview production build locally
 - [ ] Study session analytics & progress tracking
 - [ ] Integration with popular note-taking apps
 
----
-
-## 📚 AI Studio Integration
-
-This project is built with the Google AI Studio template. You can manage and update your app directly from AI Studio:
-
-**View & Edit Your App**: [https://ai.studio/apps/drive/1zt5A93Wd2Nm04-D6b8Tno6_Gme09qv4n](https://ai.studio/apps/drive/1zt5A93Wd2Nm04-D6b8Tno6_Gme09qv4n)
 
 ---
 
@@ -179,5 +172,6 @@ For issues or questions:
 - Check the existing GitHub Issues
 - Review the Gemini API documentation
 - Test locally before submitting PRs
+- - Contact me at [kishanmpatil.1@gmail.com](mailto:kishanmpatil.1@gmail.com)
 
 **Built with ❤️ for students everywhere**
