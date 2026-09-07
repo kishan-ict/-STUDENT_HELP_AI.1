@@ -201,7 +201,7 @@ This project is currently private. A license will be added upon public release.
 
 **Kishan Patil** — ICT Student, Marwadi University  
 📧 [kishanmpatil.1@gmail.com](mailto:kishanmpatil.1@gmail.com)  
-🔗 [GitHub @kishan-ict](https://github.com/kishan-ict)
+🔗 [GitHub  @kishan-ict](https://github.com/kishan-ict)
 
 ---
 
